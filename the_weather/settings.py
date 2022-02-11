@@ -28,9 +28,9 @@ SECRET_KEY = 'l%3&bg^119dk0c!)qmh3*j@d)x_vfp7pc@-d9c&0e93dzj%^)h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+#ALLOWED_HOSTS = []
 
-#ALLOWED_HOSTS = ['127.0.0.1', 'stocckkk.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'weathercheker.herokuapp.com']
 
 
 # Application definition
